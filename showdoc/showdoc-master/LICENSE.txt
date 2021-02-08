@@ -1,5 +1,5 @@
 ﻿
-ShowDoc遵循Apache2开源协议发布，并提供免费使用。
+ShowDoc遵循Apache2开源协议发布，并提供免费使用hehehe。
 版权所有Copyright © 2015 by star7th (http://blog.star7th.com/)
 All rights reserved。
 
